@@ -1,2 +1,2 @@
 Jinja2
-forensicstore
+forensicstore>=0.12.0,<0.13.0
